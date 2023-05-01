@@ -4,3 +4,5 @@ docs
 composer.lock
 index.php
 /src/helpers.php
+examples.php
+manual_test.php
