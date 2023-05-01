@@ -1,0 +1,13 @@
+<?php
+
+namespace hstanleycrow\EasyPHPOpenAI;
+
+abstract class AbstractOpenAIAPI
+{
+    protected string $openAiApiKey;
+
+    public function __construct(string $openAiApiKey)
+    {
+        $this->openAiApiKey = $openAiApiKey;
+    }
+}
