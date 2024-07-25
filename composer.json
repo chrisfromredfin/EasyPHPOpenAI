@@ -1,5 +1,5 @@
 {
-    "name": "hstanleycrow/easyphpopenai",
+    "name": "chrisfromredfin/easyphpopenai",
     "description": "Free PHP Library to use OpenAI API into any PHP project",
     "keywords": [
         "openAI",
@@ -23,11 +23,8 @@
     },
     "autoload": {
         "psr-4": {
-            "hstanleycrow\\EasyPHPOpenAI\\": "src/"
-        },
-        "files": [
-            "src/helpers.php"
-        ]
+            "chrisfromredfin\\EasyPHPOpenAI\\": "src/"
+        }
     },
     "config": {
         "allow-plugins": {
