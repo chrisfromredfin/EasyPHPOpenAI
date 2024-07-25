@@ -17,7 +17,7 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/hstanleycrow/EasyPHPOpenAI/
+$ git clone https://github.com/chrisfromredfin/EasyPHPOpenAI/
 
 # install libraries
 $ composer update
@@ -25,7 +25,7 @@ $ composer update
 or 
 ```bash
 # Install using composer
-$ composer require hstanleycrow/easyphpopenai
+$ composer require chrisfromredfin/easyphpopenai
 
 ### Using Examples
 You can adjdust the parameters like temperature, stop, max_tokens, see full list of parameters on the methods.
@@ -60,7 +60,7 @@ endif;
 
 ## Download
 
-You can [download](https://github.com/hstanleycrow/EasyPHPOpenAI/) the latest version here.
+You can [download](https://github.com/chrisfromredfin/EasyPHPOpenAI/) the latest version here.
 
 ## PHP Versions
 I have tested this class only in this PHP versions. So, if you have an older version and do not work, let me know.
@@ -81,6 +81,6 @@ MIT
 ---
 
 > [www.hablemosdeseo.net](https://www.hablemosdeseo.net) &nbsp;&middot;&nbsp;
-> GitHub [@hstanleycrow](https://github.com/hstanleycrow) &nbsp;&middot;&nbsp;
+> GitHub [@chrisfromredfin](https://github.com/chrisfromredfin) &nbsp;&middot;&nbsp;
 > Twitter [@harold_crow](https://twitter.com/harold_crow)
 

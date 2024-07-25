@@ -1,6 +1,6 @@
 <?php
 
-namespace hstanleycrow\EasyPHPOpenAI;
+namespace chrisfromredfin\EasyPHPOpenAI;
 
 class Completion extends AbstractAPIRequest
 {
